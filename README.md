@@ -3,9 +3,6 @@
 ## Overview
 CyberGuard is a modern, interactive cybersecurity education tool created by Himal Badu, a 16-year-old cybersecurity enthusiast. The application helps users understand password security, demonstrates brute force attacks, and provides comprehensive cybersecurity education through interactive features.
 
-## Live Application
-🌐 **Live URL**: https://asvwbcck.manus.space
-
 ## Features
 
 ### 🔐 Password Strength Tester
